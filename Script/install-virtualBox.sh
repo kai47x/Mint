@@ -11,7 +11,7 @@ sudo add-apt-repository "deb http://download.virtualbox.org/virtualbox/debian xe
 
 
 sudo apt-get update -y
-sudo apt-get install virtualbox-6.0
+sudo apt-get install virtualbox-5.2
 
 
 # Virtual Disk to ISO
